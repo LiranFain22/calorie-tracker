@@ -12,5 +12,5 @@ Used for tracking calories intake throughout the day.
 
 ## Demo
 
-Insert gif or link to demo
+<img src="https://github.com/LiranFain22/calorie-tracker/blob/main/ezgif.com-gif-maker.gif" width="250" height="500"/>
 
