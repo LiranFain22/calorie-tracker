@@ -1,16 +1,16 @@
-# calorie_tracker_app
 
-A new Flutter project.
+# Calorie Tracker
 
-## Getting Started
+Mobile application, written in Flutter.
+Used for tracking calories intake throughout the day.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@LiranFainshtein](https://github.com/LiranFain22)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Demo
+
+Insert gif or link to demo
+
